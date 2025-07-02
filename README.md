@@ -67,25 +67,22 @@ This analysis focuses on:
 ## 📊 EDA
 
 ### 📌 Booking Status Distribution
-![alt text](</Images/Distribution of Hospital Types Across States.png>)
+![alt text](</Images/Booking Status Distribution.png>)
 
 ### 🏨 Cancellations by Hotel Type
-![alt text](</Images/Emergency-Service Availability Rate by State.png>)
+![alt text](</Images/Cancellation by Hotel Type.png>)
 
 ### ⏳ Lead Time vs. Cancellation
-![alt text](</Images/Top 5 and Bottom 5 States by Average Hospital Rating.png>)
+![alt text](</Images/Lead Time vs Cancellation.png>)
 
 ### 📅 Monthly Booking and Cancellation Trends
-![alt text](</Images/Patient Satisfaction by Hospital Type.png>)
+![alt text](</Images/Monthly Booking and Cancellation Trends.png>)
 
 ### 🌍 Top 10 Customer Countries
-![alt text](</Images/Distribution of Hospital Ratings by Hospital Types.png>)
+![alt text](</Images/Top 10 Customer Countries.png>)
 
 ### 📈 Market Segment vs. Cancellations
-![alt text](</Images/Correlation Heatmap of Numeric Variables.png>)
-
-### 🔥 Correlation Heatmap
-![alt text](</Images/Distribution of Hospital Ownership Types Across States.png>)
+![alt text](</Images/Market Segment vs Cancellations.png>)
 
 ---
 
@@ -164,7 +161,7 @@ This project successfully identified the key factors driving hotel booking cance
 
 You can find the SQL queries and logic used for backend analysis in the following file:
 
-📄 [`SQL Analysis File.sql`](https://github.com/PRANAVJ2804/HealthData-IQ-Hospital-Insights-Patient-Analytics/blob/main/Sql%20Files/SQL%20Analysis%20File.sql)
+📄 [`SQL Analysis File.sql`](https://github.com/PRANAVJ2804/Hotel-Booking-Cancellation-Analysis/tree/main/SQL)
 
 ---
 
