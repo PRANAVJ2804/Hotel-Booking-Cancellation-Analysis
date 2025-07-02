@@ -161,7 +161,7 @@ This project successfully identified the key factors driving hotel booking cance
 
 You can find the SQL queries and logic used for backend analysis in the following file:
 
-📄 [`SQL Analysis File.sql`](https://github.com/PRANAVJ2804/Hotel-Booking-Cancellation-Analysis/tree/main/SQL)
+📄 [`SQL Analysis File.sql`](https://github.com/PRANAVJ2804/Hotel-Booking-Cancellation-Analysis/blob/main/SQL/SQL%20Analysis%20File.sql)
 
 ---
 
